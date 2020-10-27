@@ -1,6 +1,6 @@
 ![yshrsmz's github stats](https://github-readme-stats.vercel.app/api?username=yshrsmz&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshrsmz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshrsmz&layout=compact&hide=c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yshrsmz/yshrsmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
