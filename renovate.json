@@ -3,6 +3,6 @@
   "reviewers": ["yshrsmz"],
   "extends": [
     "local>yshrsmz/renovate-config",
-    "local>yshrsmz/renovate-config>github-actions"
+    "local>yshrsmz/renovate-config:github-actions"
   ]
 }
