@@ -1,20 +1,16 @@
-![yshrsmz's github stats](https://github-readme-stats.vercel.app/api?username=yshrsmz&show_icons=true)
+<p align="center">
+  <img alt="Contribution calendar in 3D" src="./profile-3d-contrib/profile-3d.svg">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshrsmz&layout=compact&hide=c,c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="GitHub stats" src="./profile/stats.svg" height="170">
+  <img alt="Most used languages" src="./profile/top-langs.svg" height="170">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alt="Contribution streak" src="./profile/streak.svg" height="170">
+</p>
 
-<!--
-**yshrsmz/yshrsmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="GitHub profile trophies" src="./profile/trophy.svg">
+</p>
