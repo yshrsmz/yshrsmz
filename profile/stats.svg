@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yasuhiro SHIMIZU&#39;s GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 3572, Total Commits  (last year) : 2195, Total PRs: 706, Total Issues: 2014, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 3570, Total Commits  (last year) : 2195, Total PRs: 706, Total Issues: 2014, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 2.1306120639036092;
+        stroke-dashoffset: 2.1312510061266883;
       }
     }
   
